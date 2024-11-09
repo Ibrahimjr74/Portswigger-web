@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d126c317b5956c63",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a73fee6ef172eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "309050e4ad689550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subverting application logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subverting application logic"
+            }
+          },
+          {
+            "id": "8e208e84068684e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subverting application logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subverting application logic"
+            }
+          },
+          {
+            "id": "372d9f42a1f8cddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subverting application logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subverting application logic"
+            }
+          },
+          {
+            "id": "19356493be47869c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2226e348df7a6ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f363514c6926101a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985c36f174f6c59f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ca4bbfb76030b38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e4225fbf131d1b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8b3f614c2021f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b13d9a585c4a65a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a5d3c9851e1f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subverting application logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Subverting application logic"
+            }
+          },
+          {
+            "id": "90c2e794eff6a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subverting application logic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Subverting application logic"
+            }
+          },
+          {
+            "id": "f6515870f5fec3c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e02ef37b87f7344e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subverting application logic.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Subverting application logic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "19356493be47869c",
+  "lastOpenFiles": [
+    "Subverting application logic.md",
+    "Port Swigger notes Day1.md",
+    "Pasted image 20241019223803.png",
+    "OOSE Assingment.md",
+    "OOSE Assingmenet",
+    "Untitled.md"
+  ]
+}
