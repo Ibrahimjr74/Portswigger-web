@@ -1,3 +1,21 @@
+- Some Types of Vulnerability labs that are found most in Portswigger.
+     - Common types of injections (xss,SQL Injection, SSRF ... etc)
+     - File upload
+     - Business Logic
+     - Broken Access control
+     - Directory traversal
+- Attacking CMS(Content management System).
+- Deep web Reconsence(subdomain,content Discovery,DNS Reconsence )
+- Web Assesment tool(nuclie, nessus, nikto)
+
+##### Hackers different attacking methodology
+- zseano methodology
+- jason haddix methodology
+- 
+
+
+
+
 
 # SQLi
 - is a type of vulnerability that allows the hacker to interfere with queries that the application makes to its database.
